@@ -122,10 +122,10 @@ body {
   font-size: 1.6em;
   background-color: #f16059;
   height: 300px;
-  width: 30%
+  width: 30%;
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
 }
 
 
